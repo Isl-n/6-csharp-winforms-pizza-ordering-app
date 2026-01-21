@@ -19,7 +19,7 @@ This project was built to practice **WinForms UI development**, **event handling
 
 ## 🖥️ Preview
 
-![Pizza Order Screen](Pizza-Orders/Screenshots/pizza-order.png)
+![Pizza Order Screen](PizzaOrders/Screenshots/pizza-order.png)
 
 ---
 
